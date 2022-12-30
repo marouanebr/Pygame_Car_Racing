@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.pyc
+
+# Logs
+*.log
+
+# Environments
+venv
+
+# Unit test / coverage reports
